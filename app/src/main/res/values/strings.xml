@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weatherAPp</string>
+    <string name="address">Местоположение</string>
+    <string name="updatedAt">Обновлено в</string>
+    <string name="status">Чистое небо</string>
+    <string name="temp">24 \u2103</string>
+    <string name="minTemp">Мин. темп.</string>
+    <string name="maxTemp">Макс. темп.</string>
+    <string name="errorText">Что-то пошло не так:(</string>
+</resources>
